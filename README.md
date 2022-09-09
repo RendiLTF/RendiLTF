@@ -1,4 +1,4 @@
-![This is an Image](../RendiLTF/img/banner.png)
+![banner](https://user-images.githubusercontent.com/107101416/189358443-1e762351-b9d8-4894-b6f0-7a11a86b2219.png)
 
 # Hi! i'm Rendi :wave:
 
