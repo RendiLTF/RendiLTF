@@ -5,13 +5,13 @@ i am a fresh graduate who is passionate about web development and just strating 
 - :receipt: I curenntly work a freelance to Web Developer
 
 - :label: Programming language and framework that i use:
-- PHP
-  - laravel
-  - CodeIgniter
-- JavaScript
-  Vue.Js
-  Angular
-- :iphone: I'm currently learnings:
+  - PHP
+    - laravel
+    - CodeIgniter
+  - JavaScript
+    - Vue.Js
+    - Angular
+- :book: I'm currently learnings:
   - Dart
   - Python
   - React.Js
