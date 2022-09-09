@@ -1,4 +1,3 @@
-# RendiLTF
+# Hi! i'm Rendi
 
-Hi! I'm Rendi
-i am a fresh graduate who is passionate about web development and just strating to explore it
+i am a fresh graduate who is passionate about web development and just strating to explore it!
