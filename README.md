@@ -1,3 +1,5 @@
+![This is an Image](../RendiLTF/img/banner.png)
+
 # Hi! i'm Rendi :wave:
 
 i am a fresh graduate who is passionate about web development and just strating to explore it for helping people! :white_heart:
@@ -16,8 +18,12 @@ i am a fresh graduate who is passionate about web development and just strating 
   - Python
   - React.Js
 
-###### Get in touch
+### Get in touch
+
+Have a sweet project in mind or just want to say hi? Feel free to send me a message!
 
 - [LinkedIn](https://www.linkedin.com/in/rendi-lutfi-ramadhan-1ab5071a6/)
 - [Email](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=rendilutfi24@gmail.com)
 - [Instagram](https://www.instagram.com/_masrenndi/)
+
+- :bookmark_tabs: View My [Project/Portofolio](https://github.com/RendiLTF/my-portofolio)
