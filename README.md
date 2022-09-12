@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/107101416/189358443-1e762351-b9d8-4894-b6f0-7a11a86b2219.png)
+![RENDI LUTFI RAMADHAN](https://user-images.githubusercontent.com/107101416/189575928-fe19e5dc-afb6-4ea6-bde6-1f562088409b.png)
 
 # Hi! i'm Rendi :wave:
 
