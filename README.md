@@ -10,9 +10,7 @@ i am a fresh graduate who is passionate about web development and just strating 
   - PHP
     - laravel
     - CodeIgniter
-  - JavaScript
-    - Vue.Js
-    - Angular
+  
 - :book: I'm currently learnings:
   - Dart
   - Python
